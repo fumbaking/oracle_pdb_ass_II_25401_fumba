@@ -18,8 +18,7 @@ The goal of this assignment was to create a new pluggable database inside an Ora
 
 The first screenshot below shows the Oracle connection configuration used to connect to the database instance.
 
-<p align="center">
-  <img src="screenshots/Dashboard.jpeg" alt="Oracle connection details" width="1000" />
+
 </p>
 
 ## Process Followed
